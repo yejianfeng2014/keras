@@ -20,6 +20,10 @@ print("Training entries: {}, labels: {}".format(len(train_data), len(train_label
 
 print(train_data[0])
 
+
+
+
+
 print(train_labels[0])
 print(train_labels[1])
 
